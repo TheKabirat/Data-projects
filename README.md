@@ -1,6 +1,6 @@
 # Data-projects
 Call Center Performance Dashboard
-This interactive dashboard provides a comprehensive overview of call center operations, enabling real-time monitoring and historical analysis of key performance indicators (KPIs). It assists supervisors and managers in making data-driven decisions to enhance efficiency and customer satisfaction.
+This interactive dashboard provides a comprehensive overview of call center operations, enabling real-time monitoring and historical analysis of key performance indicators (KPIs). It assists supervisors and managers in making data-driven decisions to enhance efficiency and customer satisfaction.
 
 Tools Used:
 Power Bi
